@@ -1,9 +1,11 @@
 # Anthony Mathieu
-Software engineer, Game developer
+Software engineer based in Uppsala 🇸🇪<br>
+Also game developer in my spare time.
 
 [Email](mailto:anthony.mathieu.sae@proton.me) |
 [Phone](tel:+33663447975) |
-[LinkedIn](https://www.linkedin.com/in/anthony-mathieu-486515162)
+[LinkedIn](https://www.linkedin.com/in/anthony-mathieu-486515162) |
+[GitHub](https://github.com/saexys)
 
 ## 💻 Software Engineering Experience
 
