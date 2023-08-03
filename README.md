@@ -1,7 +1,7 @@
 # Anthony Mathieu
-Software engineer, Game developper
+Software engineer, Game developer
 
-[Email](anthony.mathieu.sae@proton.me) |
+[Email](mailto:anthony.mathieu.sae@proton.me) |
 [LinkedIn](https://www.linkedin.com/in/anthony-mathieu-486515162)
 
 ## 💻 Software Engineering Experience
@@ -24,7 +24,7 @@ Testing tools provider for smart cards and contactless technologies.
 [ContactLAB](https://www.keolabs.com/products/platforms/contact-tester).
 <br><br>
 
-## 🕹 Game Development Experience
+## 🎮 Game Development Experience
 
 **Lead Programer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2020)_ <br>
 [Bin Saver](https://arn-hackers.itch.io/vortex-lab) - Team Retard à terre <br>
@@ -71,15 +71,15 @@ Endless runner game running on Unreal Engine 4.
 
 ## 💬 Languages
 
+🇬🇧 **English**: C2 <br>
 🇫🇷 **French**: Native <br>
-🇬🇧 **English**: Fluent <br>
 🇸🇪 **Swedish**: B1 <br>
 
 ## 🎓 Education
 
 **Master-Level Courses** in Computer Science <br>
 [Uppsala Universitet](https://www.uu.se/) - Uppsala, Sweden _(2017-2018)_ <br>
-Advanced Software Design, Artificial Intelligence ,Natural Computation Methods for Machine Learning
+Advanced Software Design, Artificial Intelligence, Natural Computation Methods for Machine Learning
 
 **Bachelor of Science** in Computer science <br>
 [SUPINFO](https://www.supinfo.com) - Grenoble, France _(2015-2017)_ <br>
