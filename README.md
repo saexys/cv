@@ -2,6 +2,7 @@
 Software engineer, Game developer
 
 [Email](mailto:anthony.mathieu.sae@proton.me) |
+[Phone](tel:+33663447975) |
 [LinkedIn](https://www.linkedin.com/in/anthony-mathieu-486515162)
 
 ## 💻 Software Engineering Experience
