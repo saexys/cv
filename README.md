@@ -1,5 +1,5 @@
 # Anthony Mathieu
-Software engineer based in Uppsala 🇸🇪<br>
+Software engineer based in Grenoble 🇫🇷<br>
 Also game developer in my spare time.
 
 [Email](mailto:anthony.mathieu.sae@proton.me) |
