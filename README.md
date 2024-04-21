@@ -9,6 +9,12 @@ Also game developer in my spare time.
 
 ## 💻 Software Engineering Experience
 
+**Firmware Engineer** @ [SiPearl](https://sipearl.com) _(Nov 2023 - Now)_ <br>
+Semiconductor company building the European high-performance low-power microprocessor dedicated to AI inference and supercomputing.
+- Designed and implemented unit and functional tests for drivers.
+- Integrated driver-related tests in CI.
+<br><br>
+
 **Development Engineer - Algorithm** @ [Q-linea](https://qlinea.com) _(Dec 2018 - Jun 2023)_ <br>
 Innovative medical device company that aims to vastly reduce the time to optimal therapy.
 - Developed and maintained an automated pipeline for in-house data analysis.
