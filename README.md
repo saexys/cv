@@ -11,6 +11,7 @@ Also game developer in my spare time.
 
 **Firmware Engineer** @ [SiPearl](https://sipearl.com) _(Nov 2023 - Now)_ <br>
 Semiconductor company building the European high-performance low-power microprocessor dedicated to AI inference and supercomputing.
+- Maintained internal tools in Python.
 - Designed and implemented unit and functional tests for drivers.
 - Integrated driver-related tests in CI.
 <br><br>
