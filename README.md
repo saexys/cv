@@ -25,7 +25,7 @@ Innovative medical device company that aims to vastly reduce the time to optimal
 - Built and maintained several data analysis computers operating in microbiology lab.
 <br><br>
 
-**Junior Developer** @ [Keolabs](https://www.keolabs.com) _(Apr 2016 - Oct 2016)_ <br>
+**Junior Developer (Internship)** @ [Keolabs](https://www.keolabs.com) _(Apr 2016 - Oct 2016)_  <br>
 Testing tools provider for smart cards and contactless technologies.
 - Ported and optimised hardware testing scripts in Python for
 [ContactLAB](https://www.keolabs.com/products/platforms/contact-tester) and
