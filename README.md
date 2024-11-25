@@ -1,5 +1,5 @@
 # Anthony Mathieu
-Software engineer based in Grenoble 🇫🇷<br>
+Software engineer based in Leuven 🇧🇪<br>
 Also game developer in my spare time.
 
 [Email](mailto:anthony.mathieu.sae@proton.me) |
@@ -8,6 +8,13 @@ Also game developer in my spare time.
 [GitHub](https://github.com/saexys)
 
 ## 💻 Software Engineering Experience
+
+**Research Engineer** @ [Medpace Core Lab](https://www.medpace.com/core-lab/) _(Aug 2024 - Now)_ <br>
+CRO dedicated to accelerate the development of safe and effective medical therapeutics.
+- Implemented code linter & formatter in CI.
+- Implemented and integrated unit and functional tests in CI.
+- Performed and documented software validation tests.
+<br><br>
 
 **Firmware Engineer** @ [SiPearl](https://sipearl.com) _(Nov 2023 - May 2024)_ <br>
 Semiconductor company building the European high-performance low-power microprocessor dedicated to AI inference and supercomputing.
