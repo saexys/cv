@@ -43,28 +43,28 @@ Testing tools provider for smart cards and contactless technologies.
 
 ## 🎮 Game Development Experience
 
-**Lead Programer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2020)_ <br>
+**Lead Programmer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2020)_ <br>
 [Bin Saver](https://retardaterre.itch.io/bin-saver) - Team Retard à terre <br>
 Educational VR game running on Unreal Engine 4.
 - Tutored my two developer teammate.
 - Developed some game logic including combo-dependent logic.
 <br><br>
 
-**Lead Programer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2019)_ <br>
+**Lead Programmer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2019)_ <br>
 [Spin Out](https://charlatent.itch.io/spinout) - Team Char'Latent <br>
 Endless runner game running on Unreal Engine 4.
 - Developed all game mechanics.
 - Developed a simple procedural generation of splines.
 <br><br>
 
-**Lead Programer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2018)_ <br>
+**Lead Programmer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2018)_ <br>
 [Vortex Lab](https://arn-hackers.itch.io/vortex-lab) - Team Arn'Hackers <br>
 3D platform game running on Unreal Engine 4.
 - Developed most game mechanics.
 - Developed a simple AI for a follower drone NPC.
 <br><br>
 
-**Gameplay Programer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2017)_ <br>
+**Gameplay Programmer** @ [Scientific Game Jam](https://www.scientificgamejam.org/) _(2017)_ <br>
 [Elec'scape](https://saexys.itch.io/elec-scape) - Team S-Kro <br>
 3D puzzle game about electronic running on Unreal Engine 4.
 - Developed game mechanics including puzzle completion verification,
