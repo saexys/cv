@@ -14,6 +14,7 @@ CRO dedicated to accelerate the development of safe and effective medical therap
 - Implemented code linter & formatter in CI.
 - Implemented and integrated unit and functional tests in CI.
 - Performed and documented software validation tests.
+- Designed and implemented architecture for automated software testing.
 <br><br>
 
 **Firmware Engineer** @ [SiPearl](https://sipearl.com) _(Nov 2023 - May 2024)_ <br>
