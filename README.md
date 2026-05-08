@@ -15,6 +15,7 @@ CRO dedicated to accelerate the development of safe and effective medical therap
 - Implemented and integrated unit and functional tests in CI.
 - Performed and documented software validation tests.
 - Designed and implemented architecture for automated software testing.
+- Migrated deployment and CI/CD pipelines from Azure DevOps to GitHub.
 <br><br>
 
 **Firmware Engineer** @ [SiPearl](https://sipearl.com) _(Nov 2023 - May 2024)_ <br>
